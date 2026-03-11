@@ -64,10 +64,6 @@ I’m a fourth-year Software Engineering student at Addis Ababa Science and Tech
 - Contribute to meaningful tech projects  
 - Grow into a highly skilled full-stack engineer  
 
----
-📊 GitHub Stats
-![Sosena's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosena2&show_icons=true&theme=radical)
-
 ✨ Thanks for visiting my profile!
 
 <!--
