@@ -57,13 +57,7 @@ I’m a fourth-year Software Engineering student at Addis Ababa Science and Tech
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-## 🎯 Goals
-
-- Build scalable and impactful software solutions  
-- Strengthen my backend and system design skills  
-- Contribute to meaningful tech projects  
-- Grow into a highly skilled full-stack engineer  
-
+  
 ✨ Thanks for visiting my profile!
 
 <!--
