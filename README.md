@@ -1,16 +1,17 @@
 # Hi there, I'm Sosena Gossaye 👋
 
 Welcome to my GitHub profile! 🌍  
-I’m a fourth-year Software Engineering student at Addis Ababa Science and Technology University (AASTU) and a passionate Full-Stack Developer. I love building scalable web applications and turning ideas into impactful digital solutions.
+I'm a final-year Software Engineering student at Addis Ababa Science and Technology University (AASTU), currently working across Full-Stack Development and AI/ML. I love building scalable web applications and turning ideas into impactful digital solutions.
 
 ---
 
 ## 🚀 About Me
 
-🎓 Fourth-Year Software Engineering Student at AASTU  
-💻 Full-Stack Web Developer  
+🎓 Final-Year Software Engineering Student at AASTU  
+💻 Full-Stack Developer & AI/ML Enthusiast  
 🤝 Open to collaborating on real-world and open-source projects  
-🌱 Currently focused on advanced backend systems and scalable web applications  
+🌱 Currently focused on advanced backend systems, scalable web applications, and AI/ML  
+🔗 Portfolio: [my-portfolio-five-nu-zzfp4jdreq.vercel.app](https://my-portfolio-five-nu-zzfp4jdreq.vercel.app/)  
 📬 Reach me via Email: sosenagossaye2021@gmail.com  
 
 ---
@@ -38,6 +39,17 @@ I’m a fourth-year Software Engineering student at Addis Ababa Science and Tech
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+## 🤖 AI / ML & Data Engineering
+
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ---
 
@@ -45,6 +57,7 @@ I’m a fourth-year Software Engineering student at Addis Ababa Science and Tech
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
@@ -53,6 +66,7 @@ I’m a fourth-year Software Engineering student at Addis Ababa Science and Tech
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -70,10 +84,10 @@ I’m a fourth-year Software Engineering student at Addis Ababa Science and Tech
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
