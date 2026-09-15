@@ -73,9 +73,7 @@ I'm a final-year Software Engineering student at Addis Ababa Science and Technol
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sosena2&theme=tokyonight" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sosena2)
   
 ✨ Thanks for visiting my profile!
 
